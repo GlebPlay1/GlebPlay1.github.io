@@ -48,6 +48,9 @@
     .foot {
         width: 82%;
     }
+    .main-book {
+        width: 82%;
+    }
 }
 @media (max-width: 906px) {
     .menu-link-1 {
@@ -100,6 +103,20 @@
     }
     .foot2 {
         margin-bottom: 60px;
+    }
+    .main-book img{
+        width: 50%;
+        height: 50%;
+    }
+    .main-book-1 {
+        flex-direction: column;
+    }
+    .main-book-2 {
+        margin-top: 20px;
+        margin-left: 0;
+    }
+    .main-book-1 input{
+        margin-left: 0;
     }
 }
 @media (max-width: 652px) {
