@@ -426,6 +426,7 @@ hr {
 .main-404-1 {
     display: flex;
     align-items: center;
+    margin-top: 120px;
 }
 .main-404-2 {
     display: flex;
@@ -449,6 +450,7 @@ hr {
     font-size: 10pt;
     padding: 10px 20px;
     padding-right: 775px;
+    margin-bottom: 120px;
 }
 i.fa {
     width: 38px;
