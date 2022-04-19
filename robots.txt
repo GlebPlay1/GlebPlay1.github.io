@@ -4,5 +4,6 @@ Disallow: /img/admin
 Disallow: /support
 Disallow: /index.html
 Disallow: *&
+Disallow: /404.html
 Allow: /error.html
-Host: GlebPlay1.github.io
+Host: https://Glebplay1.github.io

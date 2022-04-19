@@ -51,6 +51,12 @@
     .main-book {
         width: 82%;
     }
+    .main-404 {
+        width: 82%;
+    }
+    .search input{ 
+        padding-right: 455px;
+    }
 }
 @media (max-width: 906px) {
     .menu-link-1 {
@@ -117,6 +123,16 @@
     }
     .main-book-1 input{
         margin-left: 0;
+    }
+    .main-404-1 {
+        flex-direction: column;
+    }
+    .search input{ 
+        padding-right: 200px;
+        margin-top: 30px;
+    }
+    i.fa {
+        margin-top: 30px;
     }
 }
 @media (max-width: 652px) {
